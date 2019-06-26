@@ -1,7 +1,6 @@
 # Timo v2.0.1
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![加入QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-941209502-brightgreen.svg)](https://jq.qq.com/?_wv=1027&k=5RCnDCO)
 [![star](https://gitee.com/aun/Timo/badge/star.svg?theme=dark)](https://gitee.com/aun/Timo/stargazers)
 [![fork](https://gitee.com/aun/Timo/badge/fork.svg?theme=dark)](https://gitee.com/aun/Timo/members)
 #### 项目介绍
